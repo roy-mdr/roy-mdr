@@ -48,6 +48,7 @@ Recently loving to contribute in open source!
 
 ---
 
-## 🌎 What's next?
+## 🚀 What's next?
 
-Looking forward to collaborate on integrating BIM systems with web, VR and any kind of green building / sustainability projects.
+🌎 Looking forward to collaborate on integrating BIM systems with web, VR and any kind of green building / sustainability projects.
+🎶 Of course any kind of adio/visual/sensorial/mutek-y kind of project will catch my eye (and time)!
