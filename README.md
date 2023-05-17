@@ -40,11 +40,12 @@ Recently loving to contribute in open source!
 ### Web
 - Front End
     - Vainilla
-    - Vue Js
     - Svelte Js
 - Back End
     - PHP (vanilla)
     - Node Js (vanilla)
+- Meta
+    - SvelteKit
 
 ---
 
